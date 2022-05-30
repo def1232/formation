@@ -1,0 +1,664 @@
+<!doctype html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>Faculté de Droit et d’Économie Gestion &#8211; Université de Djibouti</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Université de Djibouti &raquo; Flux" href="https://www.univ.edu.dj" />
+<link rel="alternate" type="application/rss+xml" title="Université de Djibouti &raquo; Flux des commentaires" href="https://www.univ.edu.dj/?feed=comments-rss2" />
+		<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=kyXcXJk9ubwcGlBAbADbd_GKf5lft6KXnhR2YWvbvGSU8j6LHVfM29RMLCm_sVWkhsqMkqCL9t2eGtEfTG0E9A" charset="UTF-8"></script><script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.univ.edu.dj\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.3"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.univ.edu.dj/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://www.univ.edu.dj/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wpos-slick-style-css'  href='https://www.univ.edu.dj/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/slick.css?ver=2.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='logo_showcase_style-css'  href='https://www.univ.edu.dj/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/css/logo-showcase.css?ver=2.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='education-lms-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400i%2C700%2C700i%7CMontserrat%3A300%2C400%2C600%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://www.univ.edu.dj/wp-content/themes/education-lms-pro/assets/css/bootstrap.min.css?ver=4.0.0' type='text/css' media='' />
+<link rel='stylesheet' id='slick-css'  href='https://www.univ.edu.dj/wp-content/themes/education-lms-pro/assets/css/slick.css?ver=1.8' type='text/css' media='' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='education-lms-style-css'  href='https://www.univ.edu.dj/wp-content/themes/education-lms-pro/style.css?ver=5.5.3' type='text/css' media='all' />
+<style id='education-lms-style-inline-css' type='text/css'>
+
+	        button, input[type="button"], input[type="reset"], input[type="submit"],
+		    .titlebar .triangled_colored_separator,
+		    .widget-area .widget-title::after,
+		    .carousel-wrapper h2.title::after,
+		    .course-item .course-thumbnail .price,
+		    .site-footer .footer-social,
+		    .single-lp_course .lp-single-course ul.learn-press-nav-tabs .course-nav.active,
+		    .single-lp_course .lp-single-course ul.learn-press-nav-tabs .course-nav:hover,
+		    .widget_tag_cloud a:hover,
+		    .header-top .header-contact-wrapper .btn-secondary,
+            .header-type3 .header-top .header-contact-wrapper .box-icon,
+            a.btn-all-courses:hover,
+            .course-grid-layout2 .intro-item:before,
+            .learnpress .learn-press-pagination .page-numbers > li span,
+            .courses-search-widget::after
+		     { background: #0396a0; }
+
+            a:hover, a:focus, a:active,
+            .main-navigation a:hover,
+            .nav-menu ul li.current-menu-item a,
+            .nav-menu ul li a:hover,
+            .entry-title a:hover,
+            .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a, .main-navigation .current_page_ancestor > a, .main-navigation .current-menu-ancestor > a,
+            .entry-meta span i,
+            .site-footer a:hover,
+            .blog .entry-header .entry-date, .archive .entry-header .entry-date,
+            .site-footer .copyright-area span,
+            .breadcrumbs a:hover span,
+            .carousel-wrapper .slick-arrow:hover:before,
+            .recent-post-carousel .post-item .btn-readmore:hover,
+            .recent-post-carousel .post-item .recent-news-meta span i,
+            .recent-post-carousel .post-item .entry-title a:hover,
+            .single-lp_course .course-info li i,
+            .search-form .search-submit,
+            .header-top .header-contact-wrapper li .box-icon i,
+            .course-grid-layout2 .intro-item .all-course a:hover,
+            .course-filter div.mixitup-control-active, .course-filter div:hover
+            {
+                color: #0396a0;
+            }
+
+		    .recent-post-carousel .post-item .btn-readmore:hover,
+		    .carousel-wrapper .slick-arrow:hover,
+		    .single-lp_course .lp-single-course .course-curriculum ul.curriculum-sections .section-header,
+		    .widget_tag_cloud a:hover,
+            .readmore a:hover,
+            a.btn-all-courses,
+            .learnpress .learn-press-pagination .page-numbers > li span,
+            .course-filter div.mixitup-control-active, .course-filter div:hover {
+                border-color: #0396a0;
+            }
+			.container { max-width: 1000px; }
+		    .site-branding .site-logo, .site-logo { max-width: 651px; }
+		    
+		    .topbar .cart-contents { color: #ffffff; }
+		    .topbar .cart-contents i, .topbar .cart-contents { font-size: 19px; }
+	
+		 .titlebar { background-color: #ffffff; padding-top: 12%; padding-bottom: 20%; background-image: url(https://www.univ.edu.dj/wp-content/uploads/2020/11/cropped-UDCampus1-1.jpg); background-repeat: no-repeat; background-size: cover; background-position: center center;  }
+	
+		    .site-footer{ background: #def2f1;  }
+		    .site-footer, .site-footer a { color: #0396a0 }
+		    .site-info, .site-info a { color: #0396a0 }
+		    #to-top { background: #0396a0 }
+		    #to-top:hover { background: #0396a0 }
+		    .topbar { background: #0396a0; color: #ffffff  }
+		    .topbar .header_login_url a { color: #ffffff  }
+		    .titlebar .header-title { color: #ffffff  }
+		    .main-navigation a { color: #ffffff }
+		    .main-navigation a:hover,
+		    .header-transparent .site-header-wrap.no-fixed .main-navigation ul li a:hover,
+		    .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a,
+		    .main-navigation .current_page_ancestor > a, .main-navigation .current-menu-ancestor > a { color: #ffffff }
+		    .breadcrumbs span { color: #dddddd }
+		    .breadcrumbs { background: #0396a0; border-color: #0396a0; }
+
+		    .header-bottom { background: #0396a0;  }
+		    .header-bottom .main-navigation a { color: #ffffff }
+		    .header-bottom .main-navigation a:hover,
+            .header-bottom .main-navigation .current_page_item > a,
+            .header-bottom .main-navigation .current-menu-item > a,
+            .header-bottom .main-navigation .current_page_ancestor > a,
+            .header-bottom .main-navigation .current-menu-ancestor > a
+            { color: #ffffff; background: #0396a0 }
+            .header-type3 .header-bottom .nav-btn-right { background: #6c4039 ; }
+		
+</style>
+<link rel='stylesheet' id='elementor-icons-css'  href='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1688-css'  href='https://www.univ.edu.dj/wp-content/uploads/elementor/css/post-1688.css?ver=1606084574' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://www.univ.edu.dj/wp-content/uploads/elementor/css/global.css?ver=1606084714' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1950-css'  href='https://www.univ.edu.dj/wp-content/uploads/elementor/css/post-1950.css?ver=1628530225' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.5.3' type='text/css' media='all' />
+<script type='text/javascript' id='sfpp-fb-root-js-extra'>
+/* <![CDATA[ */
+var sfpp_script_vars = {"language":"fr_FR","appId":"297186066963865"};
+/* ]]> */
+</script>
+<script type='text/javascript' async="async" src='https://www.univ.edu.dj/wp-content/plugins/simple-facebook-twitter-widget/js/simple-facebook-page-root.js?ver=1.7.0' id='sfpp-fb-root-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/themes/education-lms-pro/assets/js/slick.min.js?ver=1.8' id='slick-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/themes/education-lms-pro/assets/js/mixitup.js?ver=3.2.1' id='mixitup-js'></script>
+<link rel="https://api.w.org/" href="https://www.univ.edu.dj/index.php?rest_route=/" /><link rel="alternate" type="application/json" href="https://www.univ.edu.dj/index.php?rest_route=/wp/v2/pages/1950" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.univ.edu.dj/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.univ.edu.dj/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.3" />
+<link rel="canonical" href="https://www.univ.edu.dj/?page_id=1950" />
+<link rel='shortlink' href='https://www.univ.edu.dj/?p=1950' />
+<link rel="alternate" type="application/json+oembed" href="https://www.univ.edu.dj/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.univ.edu.dj%2F%3Fpage_id%3D1950" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.univ.edu.dj/index.php?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=https%3A%2F%2Fwww.univ.edu.dj%2F%3Fpage_id%3D1950&#038;format=xml" />
+
+		<style>
+		@media
+		only screen and (-webkit-min-device-pixel-ratio: 2),
+		only screen and (   min--moz-device-pixel-ratio: 2),
+		only screen and (     -o-min-device-pixel-ratio: 2/1),
+		only screen and (        min-device-pixel-ratio: 2),
+		only screen and (                min-resolution: 192dpi),
+		only screen and (                min-resolution: 2dppx) {
+		.site-header .site-branding > a {
+		        float: left;
+		        min-height: 80px;
+		        width: 100%;
+		        background: url(https://www.univ.edu.dj/wp-content/uploads/2021/08/UD-Logoshadowhj.png) no-repeat left top ;
+		        background-size: contain;
+		}
+		.site-header .site-branding > a img { opacity : 0 ; }
+		}
+
+        @media (max-width: 479px ) {
+            .site-header .site-branding > a
+             {
+                background-size : contain;
+                background-position : center;
+             }
+        }
+		</style>
+		
+<style id="typography-wp-style-inline-css" type="text/css">
+body
+{
+	font-style: normal;
+}
+.site-title
+{
+	font-style: normal;
+}
+.site-description
+{
+	font-style: normal;
+}
+.main-navigation a, .nav-menu ul li a
+{
+	font-style: normal;
+	font-size: 12px;
+	text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6
+{
+	font-style: normal;
+}
+.titlebar .header-title
+{
+	font-style: normal;
+}
+.widget-area .widget-title
+{
+	font-style: normal;
+}
+.site-footer .widget-title
+{
+	font-style: normal;
+}
+.breadcrumbs
+{
+	font-style: normal;
+}
+
+</style>
+		<style type="text/css">
+					.site-title a,
+			.site-description {
+				color: #0396a0;
+			}
+				</style>
+		<link rel="icon" href="https://www.univ.edu.dj/wp-content/uploads/2021/08/UD-Logoshadowhj.png" sizes="32x32" />
+<link rel="icon" href="https://www.univ.edu.dj/wp-content/uploads/2021/08/UD-Logoshadowhj.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.univ.edu.dj/wp-content/uploads/2021/08/UD-Logoshadowhj.png" />
+<meta name="msapplication-TileImage" content="https://www.univ.edu.dj/wp-content/uploads/2021/08/UD-Logoshadowhj.png" />
+</head>
+
+<body class="page-template-default page page-id-1950 wp-custom-logo wp-embed-responsive elementor-default elementor-kit-1688 elementor-page elementor-page-1950">
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+                    <div class="header-type3">
+                <div class="header-top">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-4">
+	                                    <div class="site-branding">
+
+            <div class="site-logo">
+			    <a href="https://www.univ.edu.dj/" class="custom-logo-link" rel="home"><img width="800" height="100" src="https://www.univ.edu.dj/wp-content/uploads/2020/11/cropped-logo_devise-2.jpg" class="custom-logo" alt="Université de Djibouti" srcset="https://www.univ.edu.dj/wp-content/uploads/2020/11/cropped-logo_devise-2.jpg 800w, https://www.univ.edu.dj/wp-content/uploads/2020/11/cropped-logo_devise-2-300x38.jpg 300w, https://www.univ.edu.dj/wp-content/uploads/2020/11/cropped-logo_devise-2-768x96.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" /></a>            </div>
+
+            <div>
+			                        <p class="site-title"><a href="https://www.univ.edu.dj/"
+                                             rel="home">Université de Djibouti</a></p>
+				                </div>
+
+        </div><!-- .site-branding -->
+                                    </div>
+
+                            <div class="col-lg-8 pull-right hidden-sm hidden-xs">
+								<section id="text-10" class="widget_text">			<div class="textwidget"><p><a href="https://www.youtube.com/watch?v=4OOD_1ZfmSc" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="size-full wp-image-1084 alignright" src="/wp-content/uploads/2021/01/youtube.png" alt="" width="50" height="50" /></a><a href="https://twitter.com/univdjibouti" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="size-full wp-image-1083 alignright" src="/wp-content/uploads/2021/01/twitter.png" alt="" width="50" height="50" /></a><a href="https://www.facebook.com/univdedjibouti/?fref=ts" target="_blank" rel="noopener noreferrer"><img loading="lazy" class="size-full wp-image-1082 alignright" src="/wp-content/uploads/2021/01/facebook.png" alt="" width="50" height="50" /></a></p>
+</div>
+		</section>                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="header-bottom">
+                    <div class="container-fluid">
+
+	                            <a href="#" class="mobile-menu" id="mobile-open"><span></span></a>
+        <nav id="site-navigation" class="main-navigation">
+		    <div class="menu-menu-princiapl-container"><ul id="primary-menu" class="menu"><li id="menu-item-1132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1132"><a href="https://www.univ.edu.dj/">ACCUEIL</a></li>
+<li id="menu-item-557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-557"><a href="#">FORMATIONS</a>
+<ul class="sub-menu">
+	<li id="menu-item-2057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2057"><a href="https://www.univ.edu.dj/?page_id=1888">Comprendre le système L.M.D</a></li>
+	<li id="menu-item-2058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2058"><a href="https://www.univ.edu.dj/?page_id=2000">Nos formations</a></li>
+</ul>
+</li>
+<li id="menu-item-621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-621"><a href="#">CENTRES</a>
+<ul class="sub-menu">
+	<li id="menu-item-2061" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2061"><a href="https://www.univ.edu.dj/?page_id=1990">Centre d’Appui à la Pédagogie et à l’Enseignement</a></li>
+	<li id="menu-item-2060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2060"><a href="https://www.univ.edu.dj/?page_id=1984">Centre de Formation Continue</a></li>
+	<li id="menu-item-2059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2059"><a href="https://www.univ.edu.dj/?page_id=1973">Centre de Documentation Universitaire</a></li>
+</ul>
+</li>
+<li id="menu-item-1183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1183"><a href="#">ÉCOLE DOCTORALE</a>
+<ul class="sub-menu">
+	<li id="menu-item-2064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2064"><a href="https://www.univ.edu.dj/?page_id=1995">Présentation</a></li>
+</ul>
+</li>
+<li id="menu-item-2066" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2066"><a href="https://www.univ.edu.dj/?page_id=1955">VIE UNIVERSITAIRE</a></li>
+<li id="menu-item-2075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2075"><a href="https://www.univ.edu.dj/?page_id=2069">ECAMPUS</a></li>
+<li id="menu-item-1524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1524"><a target="_blank" rel="noopener noreferrer" href="/ace1/">ACE</a></li>
+</ul></div>        </nav><!-- #site-navigation -->
+        
+                                            </div>
+                </div>
+
+            </div>
+				</header><!-- #masthead -->
+
+    <div class="nav-form ">
+        <div class="nav-content">
+            <div class="nav-spec">
+                <nav class="nav-menu">
+                                                            <div class="mobile-menu nav-is-visible"><span></span></div>
+                                        <div class="menu-menu-princiapl-container"><ul id="primary-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1132"><a href="https://www.univ.edu.dj/">ACCUEIL</a><span class="arrow"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-557"><a href="#">FORMATIONS</a><span class="arrow"></span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2057"><a href="https://www.univ.edu.dj/?page_id=1888">Comprendre le système L.M.D</a><span class="arrow"></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2058"><a href="https://www.univ.edu.dj/?page_id=2000">Nos formations</a><span class="arrow"></span></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-621"><a href="#">CENTRES</a><span class="arrow"></span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2061"><a href="https://www.univ.edu.dj/?page_id=1990">Centre d’Appui à la Pédagogie et à l’Enseignement</a><span class="arrow"></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2060"><a href="https://www.univ.edu.dj/?page_id=1984">Centre de Formation Continue</a><span class="arrow"></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2059"><a href="https://www.univ.edu.dj/?page_id=1973">Centre de Documentation Universitaire</a><span class="arrow"></span></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1183"><a href="#">ÉCOLE DOCTORALE</a><span class="arrow"></span>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2064"><a href="https://www.univ.edu.dj/?page_id=1995">Présentation</a><span class="arrow"></span></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2066"><a href="https://www.univ.edu.dj/?page_id=1955">VIE UNIVERSITAIRE</a><span class="arrow"></span></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2075"><a href="https://www.univ.edu.dj/?page_id=2069">ECAMPUS</a><span class="arrow"></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1524"><a target="_blank" rel="noopener noreferrer" href="/ace1/">ACE</a><span class="arrow"></span></li>
+</ul></div>                </nav>
+            </div>
+        </div>
+    </div>
+
+                <div class="titlebar">
+                <div class="container">
+
+					<h1 class="header-title">Faculté de Droit et d’Économie Gestion</h1>                    <div class="triangled_colored_separator"></div>
+                </div>
+            </div>
+			
+	<div id="content" class="site-content">
+	<div id="primary" class="content-area">
+        <div class="container">
+            <div class="row">
+                <main id="main" class="site-main col-md-9">
+
+		            
+<article id="post-1950" class="post-1950 page type-page status-publish hentry">
+
+	
+	<div class="entry-content">
+				<div data-elementor-type="wp-page" data-elementor-id="1950" class="elementor elementor-1950" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a5983a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a5983a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5a8df9a" data-id="5a8df9a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-28423ca elementor-widget elementor-widget-text-editor" data-id="28423ca" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align:justify"><span style="font-size:13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;
+color:black">La Facult&eacute; de Droit, d&rsquo;&Eacute;conomie et de Gestion (FDEG) est traditionnellement compos&eacute;e de plusieurs fili&egrave;res sp&eacute;cialis&eacute;es en : Droit, &Eacute;conomie et Gestion. La fili&egrave;re &laquo;Bachelor in Business and Administration&raquo; (BBA), r&eacute;cemment cr&eacute;&eacute;e pour offrir une formation pointue et orient&eacute;e vers la finance et bilinguisme (anglais-fran&ccedil;ais).</span><span style="font-size:13.0pt;
+font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+
+<p style="text-align:justify"><span style="font-size:13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;
+color:black">Les masters sp&eacute;cialis&eacute;s permettent aux &eacute;tudiants de se distinguer dans l&rsquo;un des domaines suivantes : droit des organisations, droit international des affaires, droit et la gestion de la sant&eacute;.</span><span style="font-size:
+13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9183240 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9183240" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79c9797" data-id="79c9797" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e36d87e elementor-widget elementor-widget-image" data-id="e36d87e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="640" height="220" src="https://www.univ.edu.dj/wp-content/uploads/2021/01/ImageFdeg.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://www.univ.edu.dj/wp-content/uploads/2021/01/ImageFdeg.jpg 800w, https://www.univ.edu.dj/wp-content/uploads/2021/01/ImageFdeg-300x103.jpg 300w, https://www.univ.edu.dj/wp-content/uploads/2021/01/ImageFdeg-768x264.jpg 768w" sizes="(max-width: 640px) 100vw, 640px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-606f3d8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="606f3d8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-35ebfb8" data-id="35ebfb8" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2ec1a51 elementor-widget elementor-widget-text-editor" data-id="2ec1a51" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p style="text-align:justify"><strong><span style="font-size:13.0pt;font-family:
+&quot;Helvetica&quot;,&quot;sans-serif&quot;;color:black">D&eacute;bouch&eacute;s</span></strong><span style="font-size:13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+
+<p style="text-align:justify"><span style="font-size:13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;">L<span style="color:black">es d&eacute;bouch&eacute;s sont nombreux pour les formations de la FDEG. Les &eacute;tudiants form&eacute;s en Droit pourront en ce sens travailler dans des &eacute;tudes juridiques, exercer les fonctions d&rsquo;avocat, de magistrat, de juriste en entreprise dans les banques et dans l&rsquo;administration. La fili&egrave;re d&rsquo;&eacute;conomie permet, notamment, de devenir analyste-&eacute;conomiste, financier ou comptable. Quant &agrave; la fili&egrave;re BBA, elle r&eacute;pond aux besoins r&eacute;cents du march&eacute; djiboutien. Celui-ci accorde aujourd&rsquo;hui une importance croissante &agrave; la connaissance de l&rsquo;anglais des hauts-cadres d&rsquo;entreprises, de la zone franche ou dans les p&ocirc;les d&#39;emplois sp&eacute;cialis&eacute;es dans les transactions avec les partenaires &eacute;trangers.</span><o:p></o:p></span></p>
+
+<p style="text-align:justify"><span style="font-size:13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;
+color:black">A la fin de leur Licence, les &eacute;tudiants dipl&ocirc;m&eacute;s en droit, en gestion ou en &eacute;conomie peuvent &eacute;galement poursuivre leur formation dans le cadre d&rsquo;un Master, soit au sein de la facult&eacute;, soit &agrave; l&rsquo;&eacute;tranger. Les masters propos&eacute;s par l&rsquo;Universit&eacute; de Djibouti ont souvent une vocation r&eacute;gionale.</span><span style="font-size:13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;"><o:p></o:p></span></p>
+
+<p style="text-align:justify"><span style="font-size:13.0pt;font-family:&quot;Helvetica&quot;,&quot;sans-serif&quot;;
+color:black">Les formations ouvertes &agrave; la Facult&eacute; de Droit, d&rsquo;&Eacute;conomie et de Gestion de l&rsquo;Universit&eacute; de Djibouti pour l&#39;ann&eacute;e universitaire 2021/2022 sont les suivantes : </span></p>
+</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-9790d2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9790d2d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1dc4170" data-id="1dc4170" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5cbccc9 elementor-widget elementor-widget-image" data-id="5cbccc9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="575" height="212" src="https://www.univ.edu.dj/wp-content/uploads/2021/08/FormationsFDEG.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://www.univ.edu.dj/wp-content/uploads/2021/08/FormationsFDEG.png 575w, https://www.univ.edu.dj/wp-content/uploads/2021/08/FormationsFDEG-300x111.png 300w" sizes="(max-width: 575px) 100vw, 575px" />											</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+			</div><!-- .entry-content -->
+
+</article><!-- #post-1950 -->
+
+                </main><!-- #main -->
+
+                
+<aside id="secondary" class="widget-area col-sm-3">
+	<div class="sidebar-inner">
+		<section id="media_image-3" class="widget widget_media_image"><h2 class="widget-title">Rentrée 2021/2022</h2><a href="https://www.univ.edu.dj/?page_id=3339"><img width="212" height="300" src="https://www.univ.edu.dj/wp-content/uploads/2021/08/DatesImp-212x300.jpeg" class="image wp-image-3337  attachment-medium size-medium" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://www.univ.edu.dj/wp-content/uploads/2021/08/DatesImp-212x300.jpeg 212w, https://www.univ.edu.dj/wp-content/uploads/2021/08/DatesImp-723x1024.jpeg 723w, https://www.univ.edu.dj/wp-content/uploads/2021/08/DatesImp.jpeg 763w" sizes="(max-width: 212px) 100vw, 212px" /></a></section><section id="text-2" class="widget widget_text"><h2 class="widget-title">Festivités des 20ans</h2>			<div class="textwidget"><p>				<style>			
+			#wpls-logo-showcase-slider-1 .wpls-fix-box,
+			#wpls-logo-showcase-slider-1 .wpls-fix-box img.wp-post-image{max-height:250px; }
+		</style>
+		<div class="wpls-logo-showcase-slider-wrp wpls-logo-clearfix " data-conf="{&quot;slides_column&quot;:&quot;1&quot;,&quot;slides_scroll&quot;:1,&quot;dots&quot;:&quot;true&quot;,&quot;arrows&quot;:&quot;true&quot;,&quot;autoplay&quot;:&quot;true&quot;,&quot;autoplay_interval&quot;:2000,&quot;loop&quot;:&quot;true&quot;,&quot;rtl&quot;:&quot;false&quot;,&quot;speed&quot;:1000,&quot;center_mode&quot;:&quot;true&quot;,&quot;lazyload&quot;:&quot;&quot;}">
+			<div class="wpls-logo-showcase logo_showcase wpls-logo-slider  wpls-design-1 wpls-center sliderimage_hide_border " id="wpls-logo-showcase-slider-1" >
+				
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?page_id=1962" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/Programme.jpg" title="Programme" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Programme</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2873" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/02/AfficheExpositionInovTechno.jpg" title="AfficheExpositionInovTechno" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Innovation</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2577" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/02/AfficheConferenceMaladiesRespiratoires.jpg" title="AfficheConferenceMaladiesRespiratoires" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Maladies respiratoires</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/02/qafarPen.jpg" title="qafarPen" alt="" />
+			</div>
+			<div class="logo-title">Langue maternelle</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2612" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/02/confIABigData.jpg" title="confIABigData" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Big Data et l’IA</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2731" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/02/AfficheConferenceLitteraire.jpg" title="AfficheConferenceLitteraire" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Langue maternelle</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2315" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/AfficheDonduSang.jpg" title="AfficheDonduSang" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Don de sang</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2315" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/02/santeDepist.jpg" title="santeDepist" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Santé</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2153" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/ConcoursFllhs.jpg" title="ConcoursFllhs" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Concours</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2533" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/Atelier17janvier.jpg" title="Atelier17janvier" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Stratégie</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2248" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/AfficheJourneeInclusive.jpg" title="AfficheJourneeInclusive" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Journée inclusive</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2142" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/Tournois14janvier.jpg" title="Tournois14janvier" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Tournois</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=2268" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/TemoignagesFDEG.jpg" title="TémoignagesFDEG" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Témoignages</div>
+	</div>
+<div class="wpls-logo-cnt">
+	<div class="wpls-fix-box">
+					<a href="https://www.univ.edu.dj/?p=1826" target="_blank" rel="noopener noreferrer">
+				<img class="wp-post-image"  src="https://www.univ.edu.dj/wp-content/uploads/2021/01/Affiche-20-UD-VF.jpg" title="Affiche 20 UD VF" alt="" />
+			</a>
+			</div>
+			<div class="logo-title">Festivités</div>
+	</div>			</div>
+		</div>
+			
+		</code></p>
+</div>
+		</section><section id="simple_facebook_page_feed_widget-3" class="widget widget_simple_facebook_page_feed_widget"><h2 class="widget-title">Page de l&rsquo;Université</h2><!-- This Facebook Page Feed was generated with Simple Facebook Page Widget & Shortcode plugin v1.7.0 - https://wordpress.org/plugins/simple-facebook-twitter-widget/ --><div id="simple-facebook-widget" style="text-align:initial;"><div class="fb-page" data-href="https://www.facebook.com/univdedjibouti/" data-width="340" data-height="500" data-tabs="timeline" data-hide-cover="0" data-show-facepile="0" data-hide-cta="0" data-small-header="0" data-adapt-container-width="1"></div></div><!-- End Simple Facebook Page Plugin (Widget) --></section>    </div>
+</aside><!-- #secondary -->
+            </div>
+        </div>
+
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+
+		        <div class="footer-connect">
+            <div class="container">
+                <div class="footer-social">
+                    <label>Suivez-nous</label>
+                            <a target="_blank" href="https://www.facebook.com/univdedjibouti/?fref=ts"><i class="fa fa-facebook"></i></a>
+		        <a target="_blank" href="https://twitter.com/univdjibouti" ><i class="fa fa-twitter"></i></a>
+						        <a target="_blank" href="https://www.youtube.com/watch?v=4OOD_1ZfmSc" ><i class="fa fa-youtube-play"></i></a>
+				        <a target="_blank" href="mailto:&#117;d&#064;un&#105;&#118;.e&#100;&#117;.&#100;j" ><i class="fa fa-envelope"></i></a>
+	                </div>
+            </div>
+        </div>
+		
+		<div id="footer" class="container">
+
+			                <div class="footer-widgets">
+                    <div class="row">
+						                                <div id="footer-1" class="col-md-5 " >
+									<div id="media_image-4" class="widget widget_media_image"><a href="https://www.univ.edu.dj"><img width="150" height="118" src="https://www.univ.edu.dj/wp-content/uploads/2021/08/UD-Logoshadowhj.png" class="image wp-image-3347  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a></div>                                </div>
+								                                <div id="footer-2" class="col-md-7 " >
+									<div id="custom_html-10" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><style type="text/css">
+.tftable {font-size:17px;color:#0396A0;width:100%;border-width: 1px;border-color: #0396A0;border-collapse: collapse;}
+.tftable th {font-size:15px;background-color:#def2f1;border-width: 1px;padding: 8px;border-style: solid;border-color: #0396A0;text-align:left;}
+.tftable tr {background-color:#0396A0;}
+.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #0396A0;}
+.tftable tr:hover {background-color:#0396A0;}
+</style>
+
+<table class="tftable" border="1">
+<tr><th><strong><center>Universit&eacute; de Djibouti <br />Campus de Balbala<br />Croisement RN2-RN5 | B.P : 1904 Djibouti<br /> T&eacute;l. : (+253)21315555  | M&eacute;l. : ud@univ.edu.dj</center></strong></th></tr>
+</table></div></div>                                </div>
+								                    </div>
+                </div>
+			
+            
+            <div class="copyright-area">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <div class="site-info">
+	                        Copyright © 2022, Université de Djibouti                        </div><!-- .site-info -->
+                    </div>
+                    <div class="col-sm-6">
+                        
+                    </div>
+                </div>
+            </div>
+
+        </div>
+	</footer><!-- #colophon -->
+
+        <a href="#top" id="to-top" title="Back to top"><i class="fa fa-angle-double-up"></i></a>
+    
+</div><!-- #page -->
+
+<script type='text/javascript' id='education-lms-custom-js-extra'>
+/* <![CDATA[ */
+var Education_LMS = {"menu_sidebar":"left","sticky_header":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/themes/education-lms-pro/assets/js/custom.js?ver=5.5.3' id='education-lms-custom-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/js/slick.min.js?ver=2.7.2' id='wpos-slick-jquery-js'></script>
+<script type='text/javascript' id='wpls-public-js-js-extra'>
+/* <![CDATA[ */
+var Wpls = {"is_mobile":"0","is_rtl":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/wp-logo-showcase-responsive-slider-slider/assets/js/wpls-public.js?ver=2.7.2' id='wpls-public-js-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.13' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.13' id='share-link-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.13","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"https:\/\/www.univ.edu.dj\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1950,"title":"Facult%C3%A9%20de%20Droit%20et%20d%E2%80%99%C3%89conomie%20Gestion%20%E2%80%93%20Universit%C3%A9%20de%20Djibouti","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://www.univ.edu.dj/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.13' id='elementor-frontend-js'></script>
+
+</body>
+</html>
